@@ -99,9 +99,9 @@ I'm committed to continuous improvement, practical learning, and building projec
 
 I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities to grow as a software engineer.
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 Email: YOUR_EMAIL_ADDRESS
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/anyatonwumarvelous)
+- 🐙 GitHub: [Explore my repositories](https://github.com/Marvyeddy)
+- 📧 Email: anyatonwumarvelous32@gmail.com
 
 ---
 
