@@ -14,7 +14,7 @@ Currently, I'm strengthening my backend and cloud engineering skills while build
 
 ## 🚀 What I'm Working On
 
-- 🤖 **Migpt** — Building an AI-powered chat application with FastAPI, PostgreSQL, ChromaDB, and a production-oriented architecture.
+- 🤖 **Mygpt** — Building an AI-powered chat application with FastAPI, PostgreSQL, ChromaDB, and a production-oriented architecture.
 - 🔌 **Konnect** — Developing a marketplace backend with authentication, vendor onboarding, notifications, and asynchronous background tasks.
 - ☁️ **Cloud Engineering** — Practicing AWS infrastructure deployment with Terraform, Docker, and infrastructure automation.
 - 🧪 **Software Quality** — Improving application reliability through automated testing, clean architecture, and CI/CD workflows.
