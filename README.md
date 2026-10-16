@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marvelous Anyatonwu
+# Hi, I'm Marvelous Anyatonwu 👋
 
 ### Backend Engineer | Full-Stack Developer | AI Engineer
 
